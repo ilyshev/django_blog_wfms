@@ -136,3 +136,4 @@ static/
 myblog/static
 .idea/
 venv
+db.sqlite3
